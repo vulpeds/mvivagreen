@@ -1,0 +1,11 @@
+{
+	
+	"news": [
+		{"id": 1, "title":  "Lorem 1", "expert": "Lorem Ipsum", "url": "#"},
+		{"id": 2, "title":  "Lorem 2", "expert": "Lorem Ipsum", "url": "#"},
+		{"id": 3, "title":  "Lorem 3", "expert": "Lorem Ipsum", "url": "#"},
+		{"id": 4, "title":  "Lorem 4", "expert": "Lorem Ipsum", "url": "#"},
+		{"id": 5, "title":  "Lorem 5", "expert": "Lorem Ipsum", "url": "#"}
+	],
+	"status" : "success"
+}
